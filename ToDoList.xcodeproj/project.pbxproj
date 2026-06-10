@@ -10,10 +10,28 @@
 		4A97B85C2FB5432F00857BE9 /* ToDoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToDoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		4A5FF0E22FD9098A006F6B58 /* Exceptions for "ToDoList" folder in "ToDoList" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				README.md,
+			);
+			target = 4A97B85B2FB5432F00857BE9 /* ToDoList */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		4A97B85E2FB5432F00857BE9 /* ToDoList */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				4A5FF0E22FD9098A006F6B58 /* Exceptions for "ToDoList" folder in "ToDoList" target */,
+			);
 			path = ToDoList;
+			sourceTree = "<group>";
+		};
+		4A97B87A2FB5489800857BE9 /* Views */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -34,6 +52,7 @@
 			children = (
 				4A97B85E2FB5432F00857BE9 /* ToDoList */,
 				4A97B85D2FB5432F00857BE9 /* Products */,
+				4A97B87A2FB5489800857BE9 /* Views */,
 			);
 			sourceTree = "<group>";
 		};
@@ -62,6 +81,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				4A97B85E2FB5432F00857BE9 /* ToDoList */,
+				4A97B87A2FB5489800857BE9 /* Views */,
 			);
 			name = ToDoList;
 			packageProductDependencies = (
