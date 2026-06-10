@@ -1,4 +1,4 @@
-### To-Do List
+# To-Do List
 A robust multi-list task manager implementing Apple's data persistence and clean state synchronization.
 * **Architecture & Technical Highlights:**
   * **Data Persistence:** Built a custom `ListManager` using `UserDefaults` combined with Swift's `JSONEncoder`/`JSONDecoder` for lightweight local reactive caching.
@@ -19,8 +19,9 @@ To run these projects locally:
 2. Open the desired project folder in Xcode.
 3. Select your preferred iOS Simulator and press `⌘R` (Run).
 
+    ---
 
-### Gestor de Tareas (To-Do List)
+# Gestor de Tareas (To-Do List)
 Un administrador de listas múltiples enfocado en la persistencia nativa de datos y sincronización limpia de estados.
 * **Arquitectura y Aspectos Técnicos Destacados:**
   * **Persistencia de Datos:** Creación de un `ListManager` personalizado usando `UserDefaults` en combinación con `JSONEncoder`/`JSONDecoder` para un almacenamiento local reactivo.
