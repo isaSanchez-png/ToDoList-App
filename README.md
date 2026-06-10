@@ -30,7 +30,7 @@ Un administrador de listas múltiples enfocado en la persistencia nativa de dato
   
   ---
 
-## 🛠️ Requisitos e Instalación
+## Requisitos e Instalación
 
 * **Sistema Operativo:** macOS 14.0 o superior.
 * **IDE:** Xcode 15.0+ / 16.0.
